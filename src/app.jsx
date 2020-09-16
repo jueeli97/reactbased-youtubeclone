@@ -26,7 +26,7 @@ class App extends Component {
                 part : "snippet",
                 maxResults : 10,
                 q : data,
-                key : "AIzaSyCz3zma4i7saTKRgXtGhuFWeXzpHQNB26I"
+                key : "***************************"
             }
            
           });
